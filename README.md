@@ -34,13 +34,13 @@ Este projeto é mantido por contributors. Qualquer contribuição é bem-vinda! 
 Faça um fork desse repositório
 
 Crie uma branch com a sua funcionalidade
-### `(git checkout -b feature/new-feature
+### `git checkout -b feature/new-feature`
 
 Commit suas mudanças
 ### `git commit -am 'Adicionada nova funcionalidade'`
 
 Faça um push para a branch 
-### `(git push origin feature/new-feature)` 
+### `git push origin feature/new-feature` 
 
 Crie um pull request para este repositório.
 
