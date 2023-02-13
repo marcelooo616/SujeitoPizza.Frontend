@@ -1,12 +1,32 @@
-Este repositório no GitHub referente ao front-end de um projeto de pizzaria é um local onde o código-fonte do site da pizzaria é armazenado e gerenciado. Neste caso específico, está sendo utilizado o framework Next.js juntamente com o TypeScript, que é uma linguagem de programação de tipagem estática baseada em JavaScript.
 
-Ele representa a parte visível do site da pizzaria e é responsável por apresentar a interface gráfica para os usuários. O código neste repositório pode incluir arquivos HTML, CSS, TypeScript e outras tecnologias web para criar a aparência e a funcionalidade do site.
+Sujeito Pizzaria - Front-End
+Este é o repositório do front-end do projeto da Sujeito Pizzaria, que é responsável por apresentar a interface gráfica aos usuários.
 
-Aqui estão algumas das coisas que você pode esperar encontrar neste repositório:
+Tecnologias Utilizadas
+Next.js: Framework de aplicação de JavaScript para construir aplicativos da web escaláveis
+TypeScript: Linguagem de programação de tipagem estática baseada em JavaScript
+Sass: Linguagem de folha de estilo que extende o CSS
+Álbuns de ícones: Conjunto de ícones simples e elegantes
+Instalação
+Para instalar as dependências deste projeto, siga os seguintes passos:
 
-Arquivos HTML que definem a estrutura da página
-Arquivos CSS que definem o estilo da página
-Arquivos TypeScript que adicionam interatividade e dinâmica à página, escritos com tipagem estática para melhorar a qualidade e manutenabilidade do código
-Imagens, ícones e outros arquivos de mídia utilizados na página
-Documentação que explica como o código funciona e como ele pode ser modificado e mantido
-Além disso, este repositório pode incluir outros elementos, como scripts de build, ferramentas de teste e bibliotecas externas. O objetivo final é fornecer um conjunto completo de recursos que permitam aos desenvolvedores trabalharem juntos com o framework Next.js e a linguagem TypeScript para criar e manter o site da pizzaria de forma eficiente e organizada.
+Clone este repositório na sua máquina local:
+bash
+Copy code
+git clone https://github.com/[username]/sujeito-pizzaria-frontend.git
+Navegue até a pasta do projeto:
+bash
+Copy code
+cd sujeito-pizzaria-frontend
+Instale as dependências executando o seguinte comando:
+Copy code
+npm install
+Uso
+Para executar este projeto localmente, execute o seguinte comando:
+
+Copy code
+npm run dev
+A aplicação será iniciada na porta 3000. Acesse http://localhost:3000 em seu navegador para visualizá-la.
+
+Mantenimento
+Este projeto é mantido por marcelooo616. Qualquer problema ou sugestão, abra uma issue ou envie um pull request.
