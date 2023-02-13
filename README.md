@@ -12,7 +12,7 @@ Para instalar as dependências deste projeto, siga os seguintes passos:
 
 Clone este repositório na sua máquina local:
 
-### `git clone https://github.com/marcelooo616/sujeito-pizzaria-frontend.git`
+### `git clone https://github.com/marcelooo616/SujeitoPizza.Frontend.git`
 
 Navegue até a pasta do projeto:
 
