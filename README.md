@@ -3,7 +3,7 @@
 Este é o repositório do front-end do projeto da Sujeito Pizzaria, que é responsável por apresentar a interface gráfica aos usuários.
 
 # Tecnologias Utilizadas
-Next.js: Framework de aplicação de JavaScript para construir aplicativos da web escaláveis
+## Next.js: Framework de aplicação de JavaScript para construir aplicativos da web escaláveis
 TypeScript: Linguagem de programação de tipagem estática baseada em JavaScript
 Sass: Linguagem de folha de estilo que extende o CSS
 
