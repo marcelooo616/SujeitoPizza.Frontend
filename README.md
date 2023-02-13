@@ -32,9 +32,16 @@ A aplicação será iniciada na porta 3000. Acesse http://localhost:3000 em seu 
 Este projeto é mantido por contributors. Qualquer contribuição é bem-vinda! Para contribuir, siga os seguintes passos:
 
 Faça um fork desse repositório
-Crie uma branch com a sua funcionalidade ### `(git checkout -b feature/new-feature)`
-Commit suas mudanças ### `git commit -am 'Adicionada nova funcionalidade'`
-Faça um push para a branch ### `(git push origin feature/new-feature)` 
+
+Crie uma branch com a sua funcionalidade
+### `(git checkout -b feature/new-feature
+
+Commit suas mudanças
+### `git commit -am 'Adicionada nova funcionalidade'`
+
+Faça um push para a branch 
+### `(git push origin feature/new-feature)` 
+
 Crie um pull request para este repositório.
 
 # Licença
